@@ -6,7 +6,7 @@ import SearchResults from './SearchResults';
  * This is the starting point
  */
 
-export default class App extends Component {
+export default class Index extends Component {
   constructor(props) {
     super(props);
 
